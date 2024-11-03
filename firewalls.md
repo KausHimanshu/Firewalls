@@ -50,6 +50,6 @@ Firewalls are a crucial component of cybersecurity. By understanding their diffe
 
 ## References
 
-- * [Firewall Basics - YouTube Video Series](https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6)
-- * [What is a Firewall - Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
-- * [Different Types of Firewalls - TechTarget](https://www.techtarget.com/searchsecurity/definition/firewall)
+- [Firewall Basics - YouTube Video Series](https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6)
+- [What is a Firewall - Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
+- [Different Types of Firewalls - TechTarget](https://www.techtarget.com/searchsecurity/definition/firewall)
